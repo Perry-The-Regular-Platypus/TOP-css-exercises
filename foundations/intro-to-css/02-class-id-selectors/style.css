@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.extremes {
+    background-color: rgb(243, 156, 156);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unique {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.extremes.poc {
+    font-size: 24px;
+}
+
+#unique2 {
+    background-color: rgb(137, 255, 137);
+}
